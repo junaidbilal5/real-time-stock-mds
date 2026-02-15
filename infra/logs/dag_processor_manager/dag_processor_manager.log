@@ -1,0 +1,21 @@
+[2026-02-15T17:26:00.214+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2026-02-15T17:26:00.215+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2026-02-15T17:26:00.215+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2026-02-15T17:26:00.215+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-02-15T17:26:00.216+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-02-15T17:31:00.610+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-02-15T17:31:00.613+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-02-15T17:36:01.036+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-02-15T17:36:01.057+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-02-15T17:41:01.481+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-02-15T17:41:01.490+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-02-15T17:46:02.074+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-02-15T17:46:02.081+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-02-15T18:02:02.391+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-02-15T18:02:02.394+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-02-15T18:08:02.057+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-02-15T18:08:02.066+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-02-15T18:13:02.305+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-02-15T18:13:02.310+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-02-15T18:18:02.823+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-02-15T18:18:02.830+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
