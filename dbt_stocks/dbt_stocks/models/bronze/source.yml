@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: bronze           # source name you use in dbt
+    database: STOCKDATA
+    schema: COMMON
+    tables:
+      - name: BRONZE_DATA  # EXACT table name in Snowflake
